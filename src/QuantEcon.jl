@@ -20,6 +20,7 @@ using SparseArrays
 
 import DSP: periodogram
 
+
 # useful types
 ScalarOrArray{T} = Union{T,Array{T}}
 
